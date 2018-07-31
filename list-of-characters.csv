@@ -1,23 +1,22 @@
-Character,Movie,Actor
-Aech ,Ready Player One,Lena Waithe
-Alec Hardison,Leverage,Aldis Hodge
-Brody Nelson,CSI: Cyber,Shad Moss
-Cyborg/Victor Stone,Justice League,Ray Fisher 
-Glen Whitmann,Transformer,Anthony Anderson
-Gus Gorman,Superman III,Richard Pryor
-Hush,Escape Plan,50 cent
-Johnny Storm/Human Torch,Fantastic Four,Michael B. Jordan
-Leon Rollins/Latrell Walker,Exit Wounds,"Earl ""DMX"" Simmons"
-Leslie Romero,Mr Robot,Ron Cephas Jones 
-Lord Nikon,Hackers,Laurence Mason
-Lucius Fox,Batman,Morgan Freeman
-Luther Stickell,Mission Impossible,Ving Rhames
-Morpheus ,Matrix,Laurence Fishburne 
-Niobe ,Matrix,Jada Pinkett Smith
-Ramsey,Fast and Furious,Nathalie Emmanuel
-Riley Davis,MacGyver,Tristin Mays
-Romilly,Interstellar,David Gyasi
-Shuri,Black Panther,Letitia Wright
-Steve,Office Space,Orlando Jones
-Tank ,Matrix,Marcus Chong
-Theo,Die Hard,Clarence Gilyard
+name,alias,title,media,actor
+Helen Harris,Aceh,Ready Player One,movie,Lena Waithe
+Alec Hardison,,Leverage,television,Aldis Hodge
+Brody Nelson,,CSI: Cyber,television,Shad Moss
+Victor Stone,Cyborg,Justice League,movie,Ray Fisher
+Glen Whitmann,,Transformers,movie,Anthony Anderson
+Gus Gorman,,Superman III,movie,Richard Pryor
+,Hush,Escape Plan,movie,50 Cent
+Johnny Storm,Human Torch,Fantastic Four,movie,Michael B. Jordan
+Leslie Romero,,Mr. Robot,television,Ron Cephas Jones
+Leon Rollins,Latrell Walker,Exit Wounds,movie,Earl 'DMX' Simmons
+,Lord Nikon,Hackers,movie,Laurence Mason
+Lucius Fox,,Batman Returns,movie,Morgan Freeman
+Luther Stickell,,Mission: Impossible,movie,Ving Rhames
+,Morpheus,The Matrix,movie,Laurence Fishburne
+,Niobe,The Matrix,movie,Jada Pinkett Smith
+Ramsey,,Fast and Furious,movie,Nathalie Emmanuel
+,Riley Davis,riley-davis,television,Tristin Mays
+Shuri,,Black Panther,movie,Letitia Wright
+Steve,,Office Space,movie,Orlando Jones
+,Tank,The Matrix,movie,Marcus Chong
+Theo,,Die Hard,movie,Clarence Gilyard
