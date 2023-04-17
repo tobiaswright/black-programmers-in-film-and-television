@@ -26,3 +26,12 @@ A list of black programers, hackers and computer specialist in film and televisi
 |                 | Tank           | The Matrix          | movie      | Marcus Chong       | 
 | Theo            |                | Die Hard            | movie      | Clarence Gilyar    | 
 |                 | Link           | The Matrix          | movie      | Harold Perrineau   | 
+|Miles Dyson | |Terminator 2 |film |Joe Morton |
+|Sticky Webb | |The Proud Family |television |Orlando Brown |
+|Curtis Holt |Mr. Terrific |Arrow |television |Echo Kellum |
+|Breanna Casey | |Leverage: Redemption |television |Aleyse Shannon |
+|Riri Williams |Iron Heart |Black Panther: Wakanda Forever |film |Dominique Thorne |
+|Richmond Valentine | |Kingsman: The Secret Service |film |Samuel L. Jackson |
+|Leslie |Nine Ball |Ocean's 8 |film |Rihanna |
+|Bernard Lowe | |Westworld |television |Jeffrey Wright |
+|John Raymond "Ray" Arnold | |Jurrasic Park |film |Samuel L. Jackson |
