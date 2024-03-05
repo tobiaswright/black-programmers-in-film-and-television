@@ -38,4 +38,4 @@ A list of black programers, hackers and computer specialist in film and televisi
 
 
 ## Sites that are using the data:
-(GusGorman.com)[http://www.gusgorman.com]
+[GusGorman.com](http://www.gusgorman.com)
