@@ -21,7 +21,7 @@ A list of black programers, hackers and computer specialist in film and televisi
 |                 | Niobe          | The Matrix          | film      | Jada Pinkett Smith | 
 | Ramsey          |                | Fast and Furious    | film      | Nathalie Emmanuel  | 
 | Riley Davis     |                | McGyver             | television | Tristin Mays       | 
-| Shuri           |                | Black Panther       | film      | Letitia Wright     | 
+| Shuri           |                | Black Panther: Wakanda Forever      | film      | Letitia Wright     | 
 | Steve           |                | Office Space        | film      | Orlando Jones      | 
 |                 | Tank           | The Matrix          | film      | Marcus Chong       | 
 | Theo            |                | Die Hard            | film      | Clarence Gilyar    | 
