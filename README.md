@@ -34,7 +34,7 @@ A list of black programers, hackers and computer specialist in film and televisi
 |Richmond Valentine | |Kingsman: The Secret Service |film |Samuel L. Jackson |
 |Leslie |Nine Ball |Ocean's 8 |film |Rihanna |
 |Bernard Lowe | |Westworld |television |Jeffrey Wright |
-|John Raymond "Ray" Arnold | |Jurrasic Park |film |Samuel L. Jackson |
+|John Raymond Arnold | Ray Arnold |Jurrasic Park |film |Samuel L. Jackson |
 
 
 ## Sites that are using the data:
