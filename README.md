@@ -35,6 +35,7 @@ A list of black programers, hackers and computer specialist in film and televisi
 |Leslie |Nine Ball |Ocean's 8 |film |Rihanna |
 |Bernard Lowe | |Westworld |television |Jeffrey Wright |
 |John Raymond Arnold | Ray Arnold |Jurrasic Park |film |Samuel L. Jackson |
+|Margo Kess | Spider-Byte | Spider-Man: Across the Spider-Verse | film | Amandla Stenberg |
 
 
 ## Sites that are using the data:
